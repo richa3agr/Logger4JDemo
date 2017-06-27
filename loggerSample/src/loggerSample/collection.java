@@ -7,6 +7,8 @@ public class collection {
 		System.out.println("DHANANAJAI");
 		System.out.println("KUMAR");
 		System.out.println("GUPTA");
+		System.out.println("RICHA HAS ADDED");
+		
 		}
 
 }
