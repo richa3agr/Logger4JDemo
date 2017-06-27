@@ -6,6 +6,7 @@ public class collection {
 		// TODO Auto-generated method stub
 		System.out.println("DHANANAJAI");
 		System.out.println("KUMAR");
+		System.out.println("GUPTA");
 		}
 
 }
